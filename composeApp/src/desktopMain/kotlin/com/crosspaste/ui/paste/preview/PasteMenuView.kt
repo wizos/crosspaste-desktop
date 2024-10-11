@@ -372,6 +372,7 @@ fun PasteMenuView(
                                         Color.Transparent
                                     },
                                 ),
+                        contentAlignment = Alignment.Center,
                     ) {
                         PasteTypeIconView(pasteData, size = 16.dp)
                     }
