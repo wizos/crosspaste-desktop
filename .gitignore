@@ -36,3 +36,5 @@ output*/
 /docs/superpowers/
 web/dist/
 /hyperframes-demo/
+scheduled_task.lock
+skills-lock.json
